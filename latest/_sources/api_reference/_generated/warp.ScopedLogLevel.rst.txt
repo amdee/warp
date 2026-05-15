@@ -1,9 +1,9 @@
-﻿warp.HashGridQueryH
+﻿warp.ScopedLogLevel
 ===================
 
 .. currentmodule:: warp
 
-.. autoclass:: HashGridQueryH
+.. autoclass:: ScopedLogLevel
 
    
    .. automethod:: __init__
@@ -13,7 +13,7 @@
 
    .. autosummary::
    
-      ~HashGridQueryH.__init__
+      ~ScopedLogLevel.__init__
    
    
 

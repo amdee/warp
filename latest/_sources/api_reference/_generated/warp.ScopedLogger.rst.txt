@@ -1,9 +1,9 @@
-﻿warp.HashGridQueryD
-===================
+﻿warp.ScopedLogger
+=================
 
 .. currentmodule:: warp
 
-.. autoclass:: HashGridQueryD
+.. autoclass:: ScopedLogger
 
    
    .. automethod:: __init__
@@ -13,7 +13,7 @@
 
    .. autosummary::
    
-      ~HashGridQueryD.__init__
+      ~ScopedLogger.__init__
    
    
 
